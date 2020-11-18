@@ -8,7 +8,7 @@ if [ ! -d $SUBMODULE_NAME ]; then
   git clone "$LIB_IN_SUBMODULE_URL" $SUBMODULE_NAME
 fi
 
-submodule_revision=`<file_name>`
+submodule_revision=`cat <file_name>`
 
 cd SUBMODULE_NAME
 
