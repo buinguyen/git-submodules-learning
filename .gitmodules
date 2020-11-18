@@ -1,0 +1,10 @@
+[submodule "<module_name>"]
+	path = <module_path>
+	url = <submodule_git_url>
+	branch = <submodule_branch>
+	ignore = dirty
+[submodule "<module_name>"]
+	path = <module_path>
+	url = <submodule_git_url>
+	branch = <submodule_branch>
+	ignore = dirty
